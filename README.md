@@ -38,7 +38,7 @@ It covers robust cleaning, tokenization, efficient sequence-to-sequence training
 │ ├── Evaluation/
 │ │ └── evaluation.ipynb # Compute ROUGE and review sample summaries
 ├── requirements.txt # List of project dependencies
-└── README.md # Project info and instructions
+└── README.md # Project info and instructions```
 
 
 
